@@ -14,7 +14,6 @@ import vistas.Principal;
 public class Main {
 
     /**
-     * @param args the command line arguments
      */
     public static void main(String[] args) {
         Clientes c = new Clientes("patricia", "gonzales", 30000100, "paraguay", null, 4000, 64579729);
@@ -44,7 +43,7 @@ public class Main {
        // System.out.println(Financiera.getListaempleado());
         //System.out.println(Clientes.getListacreditos().add(credito1));
        // System.out.println(Financiera.getListacliente());
-
+            //kacho se la comusi
         Principal window = new Principal();
         window.setVisible(true);
     }
