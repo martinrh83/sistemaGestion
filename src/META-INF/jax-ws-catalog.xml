@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://financiera.dyndns.biz:5884/Validaciones.svc?wsdl" uri="wsdl/financiera.dyndns.biz_5884/Validaciones.svc.wsdl"/>
+    <system systemId="http://financiera.dyndns.biz:5884/Validaciones.svc?xsd=xsd0" uri="wsdl/financiera.dyndns.biz_5884/Validaciones.svc.xsd_xsd0.xsd"/>
+    <system systemId="http://financiera.dyndns.biz:5884/Validaciones.svc?xsd=xsd1" uri="wsdl/financiera.dyndns.biz_5884/Validaciones.svc.xsd_xsd1.xsd"/>
+    <system systemId="http://financiera.dyndns.biz:5884/Validaciones.svc?xsd=xsd2" uri="wsdl/financiera.dyndns.biz_5884/Validaciones.svc.xsd_xsd2.xsd"/>
+    <system systemId="http://192.168.10.100:5884/Validaciones.svc?wsdl" uri="xml-resources/web-service-references/Validaciones_1/wsdl/192.168.10.100_5884/Validaciones.svc.wsdl"/>
+    <system systemId="http://192.168.10.100:5884/Validaciones.svc?xsd=xsd0" uri="xml-resources/web-service-references/Validaciones_1/wsdl/192.168.10.100_5884/Validaciones.svc.xsd_xsd0.xsd"/>
+    <system systemId="http://192.168.10.100:5884/Validaciones.svc?xsd=xsd1" uri="xml-resources/web-service-references/Validaciones_1/wsdl/192.168.10.100_5884/Validaciones.svc.xsd_xsd1.xsd"/>
+    <system systemId="http://192.168.10.100:5884/Validaciones.svc?xsd=xsd2" uri="xml-resources/web-service-references/Validaciones_1/wsdl/192.168.10.100_5884/Validaciones.svc.xsd_xsd2.xsd"/>
+</catalog>
