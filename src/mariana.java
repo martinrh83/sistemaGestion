@@ -11,7 +11,7 @@
 public class mariana {
     
     /*
-    hola :) Soy Gonzalo Rivadeneira y Rolfi es un Profesor de Git !!!! Bravo  bravo :)
+    hola :) Soy Gonzalo tula Dacilba Rivadeneira y Rolfi es un Profesor de Git !!!! Bravo  bravo :)
     */
     
     /*
