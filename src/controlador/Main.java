@@ -36,7 +36,7 @@ public class Main {
         Financiera.getListaplan().add(tipo4);
         /*Credito cr = new Credito(1, 21, "spsp", null, null, null);
        
-      
+      //aksjdkajdlaksdm
        
        System.out.println( Clientes.getListacreditos().add(cr));*/
         Financiera.getListaplan().add(tipo2);
